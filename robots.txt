@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lions-diagnostics-karimnagar.vercel.app/sitemap.xml

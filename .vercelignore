@@ -1,0 +1,5 @@
+# Internal working files — must never be published.
+README.md
+CONTENT-TODO.md
+.claude
+.env*.local
